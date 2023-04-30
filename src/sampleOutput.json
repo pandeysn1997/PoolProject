@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 32,
+    "articles": [
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Mehmet Guzel, Ghaith Alsayed",
+            "title": "Turkey earthquake: Live updates on 7.8 quake - The Associated Press - en Español",
+            "description": "ADANA, Turkey (AP) — Rescuers in Turkey and war-ravaged Syria searched through the frigid night into Tuesday, hoping to pull more survivors from the rubble after a 7.8 magnitude earthquake killed more than 4,000 people  and toppled thousands of buildings acro…",
+            "url": "https://apnews.com/article/earthquake-shakes-turkey-b927808f6a5c54bdb669120faa40b7bc",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/3d91466684ca4d9cad3ec5f3e6ba6d81/3000.webp",
+            "publishedAt": "2023-02-07T04:26:52Z",
+            "content": "ADANA, Turkey (AP) Rescuers in Turkey and war-ravaged Syria searched through the frigid night into Tuesday, hoping to pull more survivors from the rubble after a 7.8 magnitude earthquake killed more … [+7067 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arrowhead Pride"
+            },
+            "author": "John Dixon",
+            "title": "Chiefs appear at Super Bowl LVII Opening Night - Arrowhead Pride",
+            "description": "We’re keeping you up to date with what’s happening as Kansas City meets with the press in Phoenix.",
+            "url": "https://www.arrowheadpride.com/2023/2/6/23588706/chiefs-appear-at-super-bowl-lvii-opening-night",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/5FeFHtuWW5Zr0SgtskD1sTebipc=/465x698:4808x2972/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24414603/1463628712.jpg",
+            "publishedAt": "2023-02-07T04:13:56Z",
+            "content": "© 2023 Vox Media, LLC. All Rights Reserved\r\n* 21+ (19+ CA-ONT) (18+ NH/WY). AZ, CO, CT, IL, IN, IA, KS, LA, (select parishes), MD, MI, NH, NJ, NY, OH, OR, PA, TN, VA, WV, WY, CA-ONT only.Eligibility … [+128 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Groundbreaking Discovery of Hidden Molten Rock Layer Under Earth's Tectonic Plates - SciTechDaily",
+            "description": "Scientists have discovered a new layer of partly molten rock under the Earth’s crust that might help settle a long-standing debate about how tectonic plates move. Researchers had previously identified patches of melt at a similar depth. But a new study led by…",
+            "url": "https://scitechdaily.com/groundbreaking-discovery-of-hidden-molten-rock-layer-under-earths-tectonic-plates/",
+            "urlToImage": "https://scitechdaily.com/images/Earths-Upper-Mantle.jpg",
+            "publishedAt": "2023-02-07T03:43:59Z",
+            "content": "ByUniversity of Texas at AustinFebruary 6, 2023\r\nThe Earth with the upper mantle revealed. Researchers at The University of Texas at Austin have discovered a previously unknown layer of partly molten… [+4566 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ohio crews release toxic chemicals from derailed train - BBC",
+            "description": "An evacuation order is in place for anyone within a one-mile (1.6km) radius of the site in Ohio.",
+            "url": "https://www.bbc.com/news/world-us-canada-64540530",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BB65/production/_128537974_traincrash.jpg",
+            "publishedAt": "2023-02-07T03:12:14Z",
+            "content": "Media caption, Watch: New footage of derailed train in Ohio\r\nCrews are performing a controlled release of toxic chemicals from a derailed train in north-eastern Ohio, hours after ordering residents t… [+2495 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Kyrie Irving, Markieff Morris arrive at the Mavs' practice facility in Dallas | NBA on ESPN - ESPN",
+            "description": "Kyrie Irving arrives at the Mavericks' practice facility in Dallas as the team's trade with Brooklyn becomes official. Forward Markieff Morris also joins Irv...",
+            "url": "https://www.youtube.com/watch?v=zmebNSq74oI",
+            "urlToImage": "https://i.ytimg.com/vi/zmebNSq74oI/maxresdefault.jpg",
+            "publishedAt": "2023-02-07T02:40:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Zachary Cohen",
+            "title": "Exclusive: US intel assessment documents Chinese spy balloon incident under Trump - CNN",
+            "description": "A US military intelligence report from last year that focused on China's use of high-altitude balloons mentioned sightings in Hawaii and Florida during the Trump presidency, according to an excerpt of the report reviewed by CNN.",
+            "url": "https://www.cnn.com/2023/02/06/politics/military-intelligence-report-china-balloon-trump/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220808101326-donald-trump-0806.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-07T02:15:00Z",
+            "content": "A US military intelligence report from last year that focused on Chinas use of high-altitude balloons mentioned sightings in Hawaii and Florida during the Trump presidency, according to an excerpt of… [+3410 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Michael David Smith",
+            "title": "Jason Kelce hoping for “ultimate bragging rights” with his brother - NBC Sports",
+            "description": "Eagles center Jason Kelce and Chiefs tight end Travis Kelce are the first brothers ever to face off in the Super Bowl, and Jason sees it as a unique opportunity.Jason Kelce said at Super Bowl LVII Opening Night that Sunday’s result is going to be something hi…",
+            "url": "https://profootballtalk.nbcsports.com/2023/02/06/jason-kelce-hoping-for-ultimate-bragging-rights-with-his-brother/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2023/02/GettyImages-1458368897-e1675733884284.jpg",
+            "publishedAt": "2023-02-07T01:38:00Z",
+            "content": "Eagles center Jason Kelce and Chiefs tight end Travis Kelce are the first brothers ever to face off in the Super Bowl, and Jason sees it as a unique opportunity.\r\nJason Kelce said at Super Bowl LVII … [+715 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Florida Today"
+            },
+            "author": ", Florida Today",
+            "title": "Live updates: SpaceX set to launch Falcon 9 rocket from Cape Canaveral - Florida Today",
+            "description": "Follow live updates as SpaceX targets 8:32 p.m. ET on Mon., Feb. 6, for the launch of a Falcon 9 rocket from Cape Canaveral Space Force Station.",
+            "url": "https://www.floridatoday.com/story/tech/science/space/2023/02/06/spacex-hispasat-amazonas-nexus-satellite-launch-falcon-9-rocket-cape-canaveral-space-force-florida/69868058007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/02/06/PBRE/021c356e-f13a-4307-abf9-373c387caac1-Amazonas_Vertical_3_Desktop_Homepage_056f8bf73e.jpg?auto=webp&crop=2124,1195,x260,y0&format=pjpg&width=1200",
+            "publishedAt": "2023-02-07T00:43:13Z",
+            "content": "Space is important to us and that's why we're working to bring you top coverage of the industry and Florida launches. Journalism like this takes time and resources. Please support it with a subscript… [+2954 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Miami Herald"
+            },
+            "author": null,
+            "title": "Home away from Earth? Planet with promise found 31 light-years away, researchers say - Miami Herald",
+            "description": null,
+            "url": "https://www.miamiherald.com/news/nation-world/world/article272193433.html",
+            "urlToImage": null,
+            "publishedAt": "2023-02-07T00:06:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Sean Payton to implement specific plan for Russell Wilson, other Broncos players - CBS Sports",
+            "description": "There's a new sheriff in Denver",
+            "url": "https://www.cbssports.com/nfl/news/sean-payton-to-implement-specific-plan-for-russell-wilson-other-broncos-players/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/02/06/dcf0f581-671a-48ac-87c4-71321ff81488/thumbnail/1200x675/e79d93cd3d42d5d4e875f8f0e7a1a370/payton.jpg",
+            "publishedAt": "2023-02-06T23:33:00Z",
+            "content": "For the second time this century, a major culture change is underway within the Broncos' organization. Like Peyton Manning over a decade earlier, Sean Payton arrives in Denver with the hope of helpin… [+3878 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "GRAMMYs 2023: Must-See Moments! - Entertainment Tonight",
+            "description": "The 2023 GRAMMYs aired on CBS and streamed live on Paramount +.",
+            "url": "https://www.youtube.com/watch?v=qEi1fmi9dw0",
+            "urlToImage": "https://i.ytimg.com/vi/qEi1fmi9dw0/maxresdefault.jpg",
+            "publishedAt": "2023-02-06T23:30:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Gerrit De Vynck",
+            "title": "Google responds to OpenAI with its own chatbot — 'Bard' - The Washington Post",
+            "description": "Google's rivals are charging ahead on public releasing AI-driven chatbots. Now the company says it will « soon » make its own available to anyone",
+            "url": "https://www.washingtonpost.com/technology/2023/02/06/google-bard-chatbot/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CSMNUYDPWOQF5QK45X3OHK6FHY.JPG&w=1440",
+            "publishedAt": "2023-02-06T23:13:00Z",
+            "content": "Comment on this story\r\nSAN FRANCISCO Google said it will soon make its own artificial intelligence chatbot available to the public and begin using the tech to generate answers in search results, firi… [+4585 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Virginia boy who shot teacher allegedly tried to choke another, lawyer claims - CBS News",
+            "description": "An attorney for the teacher who was shot said in a legal notice that the first-grader once choked another teacher \"until she couldn't breathe.\"",
+            "url": "https://www.cbsnews.com/news/abby-zwerner-virginia-teacher-shot-boy-choked-other-teacher/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/19/033adb58-1427-418e-9dfa-1441f5533c0f/thumbnail/1200x630/93e6b0a06e199177e334bcb8ec4e9bbb/gettyimages-1246045769.jpg",
+            "publishedAt": "2023-02-06T22:42:56Z",
+            "content": "A 6-year-old Virginia boy who shot and wounded his first-grade teacher constantly cursed at staff and teachers, chased students around and tried to whip them with his belt and once choked another tea… [+2649 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Christina Wilkie",
+            "title": "Watch live: U.S. House Speaker Kevin McCarthy speaks on the debt ceiling - CNBC",
+            "description": "McCarthy's speech comes a day before President Joe Biden is scheduled to give his annual State of the Union address.",
+            "url": "https://www.cnbc.com/2023/02/06/watch-live-us-house-speaker-kevin-mccarthy-speaks-on-the-debt-ceiling.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107178765-1673645930086-gettyimages-1246185186-mccarthy797_011223.jpeg?v=1675722358&w=1920&h=1080",
+            "publishedAt": "2023-02-06T22:22:50Z",
+            "content": "(The stream is slated to start at 5:30 p.m. ET. Please refresh the page if you do not see a video above at that time.)\r\nHouse Speaker Kevin McCarthy will deliver an address Monday on the debt ceiling… [+1119 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Recording Academy | Grammys"
+            },
+            "author": null,
+            "title": "How Hip-Hop Took Over The 2023 GRAMMYs, From The Golden Anniversary To 'God Did' - The GRAMMYs",
+            "description": "It's the 50th anniversary of hip-hop, but the 2023 GRAMMYs celebrations didn't stop at the epic, MC-saturated blowout. Here are five ways the genre took over Music's Biggest Night.",
+            "url": "https://www.grammy.com/news/2023-grammys-how-hip-hop-took-over-dj-khaled-kendrick-lamar-takeoff",
+            "urlToImage": "https://i8.amplience.net/i/naras/2023-GRAMMYs-Hip-Hop-GettyImages-1463298703.jpg?w=821&sm=c",
+            "publishedAt": "2023-02-06T22:06:00Z",
+            "content": "Ann and Nancy WilsonofHeartare verging on the half-century mark since they formed their groundbreaking group in 1974. Through five decades of changing musical eras, their impact has not waned. From t… [+3135 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Nicolas Vega",
+            "title": "AMC Theatres is changing the way it prices movie tickets—here's how it will work - CNBC",
+            "description": "Under the new model, AMC will divide up an auditorium's seats into \"Standard Sightline,\" \"Value Sightline\" and \"Preferred Sightline\" tiers.",
+            "url": "https://www.cnbc.com/2023/02/06/amc-theatres-will-soon-charge-you-more-money-for-the-best-seats.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107189703-1675718530094-gettyimages-1207531292-200317crna010457.jpeg?v=1675719305&w=1920&h=1080",
+            "publishedAt": "2023-02-06T21:35:05Z",
+            "content": "Want to grab the best seat in the house at your next screening of \"Avatar\"? Get ready to pay up. \r\nAMC Theatres, the nation's largest movie theater chain, has announced plans to change the way that i… [+1591 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Will Daniel",
+            "title": "'Big Short' hedge funder says he thinks we're headed for a 'run-of-the-mill' recession—but the bigger 'paradigm shift' is really on his mind - Yahoo Finance",
+            "description": "Steve Eisman says some market paradigms get deeply embedded in people’s minds. “They can’t even imagine, at times, that there could be anything else.”",
+            "url": "https://finance.yahoo.com/news/big-short-hedge-funder-says-212252104.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PTblhOMsOg9NWFKVrf5KuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/e79dd210ad897347505c1aae03378242",
+            "publishedAt": "2023-02-06T21:22:52Z",
+            "content": "Tech and growth-focused stocks have dominated markets for over a decade, but a paradigm shift is coming as the Federal Reserve raises interest rates to fight inflation, according to Steve Eisman, sen… [+5706 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Mansur Shaheen",
+            "title": "Taking vitamin D supplements could drag 17million Americans and Brits back from brink of diabetes - Daily Mail",
+            "description": "In a meta-analysis of 17 studies, Tufts University researchers found that pre-diabetics could reduce their likelihood of developing the potentially-crippling condition by 15 percent.",
+            "url": "https://www.dailymail.co.uk/health/article-11719037/Taking-vitamin-D-supplements-drag-17million-Americans-Brits-brink-diabetes.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2023/02/06/21/67390067-0-image-a-3_1675717228250.jpg",
+            "publishedAt": "2023-02-06T20:56:53Z",
+            "content": "A vitamin D supplement every day can help keep diabetes away, a study suggests.\r\nIn a meta-analysis of 17 studies, Tufts University researchers found that pre-diabetics could reduce their likelihood … [+4859 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Dina Bass",
+            "title": "Microsoft Schedules Mystery Event for Tuesday as Company Accelerates AI Investments - Yahoo Finance",
+            "description": "(Bloomberg) -- Microsoft Corp. unveiled plans for an event on Tuesday at its headquarters, leaving the subject open to speculation as the company steps up...",
+            "url": "https://finance.yahoo.com/news/microsoft-schedules-mystery-event-tuesday-203529849.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FWPBGBlK8dQEf.EwGH3O.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/e99b4c78f507709ccf28f21df93e2142",
+            "publishedAt": "2023-02-06T20:35:29Z",
+            "content": "(Bloomberg) -- Microsoft Corp. unveiled plans for an event on Tuesday at its headquarters, leaving the subject open to speculation as the company steps up its bets on artificial intelligence includin… [+2297 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Hogwarts Legacy: 14 Minutes of PC Gameplay at Max Settings (4K 60FPS) - IGN",
+            "description": "Hogwarts Legacy is nearly here, and if you want to see the game at it's absolute best, then this video is for you! For this gameplay, we installed the game o...",
+            "url": "https://www.youtube.com/watch?v=VPItVDtUBvo",
+            "urlToImage": "https://i.ytimg.com/vi/VPItVDtUBvo/maxresdefault.jpg",
+            "publishedAt": "2023-02-06T20:34:21Z",
+            "content": null
+        }
+    ]
+}
